@@ -13,5 +13,5 @@ As such, the adage “don’t roll your own crypto” applies. Instead, a peer-r
 
 **Checks** | OpenZepplin | Projects | Audits
 --- | --- | --- | ---
-**Support** | ✅ | ✅ | **nicely**
+**Support** | ✅ | ✅ | ✅
 **Links** | [🔗 draft-EIP712.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/cryptography/draft-EIP712.sol) | [gnosis/gp-v2-contracts](https://github.com/gnosis/gp-v2-contracts) | [multisig-diligence-audit.pdf](multisig-diligence-audit.pdf)
